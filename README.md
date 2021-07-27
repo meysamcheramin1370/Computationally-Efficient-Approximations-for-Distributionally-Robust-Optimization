@@ -23,4 +23,12 @@ combined ambiguity set. We show the results related to the benefits of choosing 
   - Table 14 Intervals on the newsvendor problem
   - Table 15 Arbitrary vs. leading components on the newsvendor problem
   - Table 16 Sensitivity analysis for lower bound (8) on the newsvendor problem with respect to γ1
+  - Table 17 Sensitivity analysis for lower bound (8) on the newsvendor problem with respect to γ2
+  - Table 18 Sensitivity analysis for lower bound (43) on the newsvendor problem with respect to R0
+  - Table EC.1 Lower bound (EC.46) on the production-transportation problem
+  - Table EC.2 Upper bound (EC.48) on the production-transportation problem
+  - Table EC.3 Lower bounds (43) and (EC.46) on the production-transportation problem
+  - Table EC.4 Upper bounds (46) and (EC.48) on the production-transportation problem
+  - Table EC.5 Sensitivity analysis for lower bound (EC.46) with respect to (γ1;R0)
+  - Table EC.6 Sensitivity analysis for upper bound (EC.46) with respect to (γ1;R0)
 
