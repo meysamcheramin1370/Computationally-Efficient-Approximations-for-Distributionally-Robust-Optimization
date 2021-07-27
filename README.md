@@ -40,4 +40,6 @@ combined ambiguity set. We show the results related to the benefits of choosing 
   - NewsVendor = The newsvendor problem
   - Production = The production-transportation problem
 
+- By running the MATLAB code related to each experiment, the randomly generated datasets used in the related experiment appeare in the Workspace of MATLAB as ".mat" files. format 
+
 
