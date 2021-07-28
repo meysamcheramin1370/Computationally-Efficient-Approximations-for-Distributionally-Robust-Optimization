@@ -32,7 +32,9 @@ combined ambiguity set. We show the results related to the benefits of choosing 
   - Table EC.5 Sensitivity analysis for lower bound (EC.46) with respect to (γ1;R0)
   - Table EC.6 Sensitivity analysis for upper bound (EC.46) with respect to (γ1;R0)
 
-- The folder "MATLAB Codes" includes two folders named "Multi-Product Newsvendor_MATLAB Codes" and "Risk-averse Production-Transportation_MATLAB Codes". The folder "Multi-Product Newsvendor_MATLAB Codes" includes all the MATLAB codes related to the newsvendor problem and the folder  "Risk-averse Production-Transportation_MATLAB Codes" includes all the MATLAB codes related to the production-transportation problem. In addition to the documentations provided in each MATLAB code, you can use the following guidlines related to the name of MATLAB files to find the MATLAB code related to each experiment:
+- The folder "MATLAB Codes" includes two folders named "Multi-Product Newsvendor_MATLAB Codes" and "Risk-averse Production-Transportation_MATLAB Codes". The folder "Multi-Product Newsvendor_MATLAB Codes" includes all the MATLAB codes related to the newsvendor problem and the folder  "Risk-averse Production-Transportation_MATLAB Codes" includes all the MATLAB codes related to the production-transportation problem. 
+- The folder of each problem has two folders named Experiments and Functions. Each MATLAB file in the folder Experiments is related to one experiment (Table) of the paper so that it calls a few MATLAB files in the folder Functions. In the beginning of each MATLAB file in the folder Experiments the datasets of the related experiment (Table) are randomly generated. Those randomly generated datasets appeare in the Workspace of MATLAB as ".mat" files.- 
+- In addition to the documentations provided in each MATLAB code, you can use the following guidlines related to the name of MATLAB files to find the MATLAB code related to each experiment:
   - UB = Upper Bound
   - LB = Lower Bound
   - moment = Moment-based Ambiguity Set
